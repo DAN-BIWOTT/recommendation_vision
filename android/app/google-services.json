@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672113498648",
+    "project_id": "recommendationvision",
+    "storage_bucket": "recommendationvision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672113498648:android:d2e9112125659f6c9dc16d",
+        "android_client_info": {
+          "package_name": "com.example.recommendation_vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672113498648-vft4tsh0u5j0d1h76qrfmqnc78ioqk90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFBc06cVoPSwshZQ_YkDbUSQ5qhH_-I40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672113498648-vft4tsh0u5j0d1h76qrfmqnc78ioqk90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
